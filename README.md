@@ -3,4 +3,4 @@ We provide an implementation of the algorithm proposed in [arxiv link] using Pyt
 
 Our prominent contribution is presenting an adaptive temperature approach along with normalization of our data which, in turn, produced state-of-the-art results.
 ## Prerequisites
-As mentioned in the paper, we measure the performance of our algorithm on a suite of PyBullet continuous control tasks, interfaced through OpenAI Gym.
+As mentioned in the paper, we measure the performance of our algorithm on a suite of [PyBullet](https://arxiv.org/pdf/1801.01290.pdf) continuous control tasks, interfaced through [OpenAI Gym](https://github.com/openai/baselines).
