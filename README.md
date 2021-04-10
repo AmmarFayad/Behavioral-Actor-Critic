@@ -1,5 +1,5 @@
 # Behavioral Actor-Critic
-We provide an implementation of the algorithm proposed in [our paper] using Pytorch. Behavioral Actor-Critic is a deep reinforcement learning framework for in continuous domains. The algorithm makes use of several concepts such as autoencoders (to formulate the intrinsic reward), and the off-policy method presented in [Soft Actor-Critic](https://arxiv.org/pdf/1801.01290.pdf) paper.
+We provide an implementation of the algorithm proposed in [our paper] using Pytorch. Behavioral Actor-Critic is a deep reinforcement learning framework for training policies in continuous domains. The algorithm makes use of several concepts such as autoencoders (to formulate the intrinsic reward), and the off-policy method presented in [Soft Actor-Critic](https://arxiv.org/pdf/1801.01290.pdf) paper.
 
 Our prominent contribution is presenting an adaptive temperature approach along with normalization of our data which, in turn, produced state-of-the-art results when compared to severalcutting-edge learning algorithms.
 ## Prerequisites
